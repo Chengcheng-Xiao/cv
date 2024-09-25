@@ -1,0 +1,77 @@
+details:
+  name: Chengcheng Xiao
+  uni: Imperial College London
+  dept: Deptartment of Materials
+  place: London, United Kingdom
+  email: cx219@ic.ac.uk
+  phone: +44 7594 769521
+  github: 
+    name: "@Chengcheng_Xiao"
+    url: "https://github.com/Chengcheng-Xiao"
+  linkedin:
+    name: "Chengcheng Xiao"
+    url: "https://www.linkedin.com/in/chengcheng-xiao-04208b8b/"
+  # portfolio:
+  #   name: "Portfolio"
+  #   url: "https://chengcheng-xiao.github.io/about/"
+
+summary: >
+  I am a Postdoctoral Research Associate at Imperial College London. 
+  My research focuses on developing new methods, particularly density functional
+  theory, for the accurate and efficient simulation of materials. 
+  I apply these methods to investigate the properties of various materials, 
+  including ferroic materials, hydrogen storage materials, superconductors,
+  and topological materials that are of interest to both the scientific 
+  community and industry.
+
+education:
+  - title: Imperial College London, London, United Kingdom
+    details: Ph.D., Materials Science and Engineering, 2019 - 2023
+    # bullets:
+    #   - IT System & Web Development
+
+experience:
+  - title: Postdoctoral Research Associate
+    details: Imperial College London, 2019 - Present
+    bullets:
+      - ONETEP
+  - title: Research Associate
+    details: Hongkong Polytechnic University, 2018-2019
+    bullets:
+      - WOOPs
+
+teaching:
+  - title: Volunteer
+    details: NiceFestival, Crete, 2016 - Present
+    bullets:
+      - Part of festival's organization team
+      - Volunteer group coordinator
+  - title: Volunteer
+    details: NiceFestival, Crete, 2016 - Present
+    bullets:
+      - Part of festival's organization team
+      - Volunteer group coordinator
+
+awards:
+  - title: Introduction to Jekyll
+    details: Science Conference, Online, 2020
+    bullets:
+      - Speaker for jekyll webinar
+
+# projects:
+#   - Jekyll academic cv, 2019
+#   - PHP API for home automation, 2019
+
+skills:
+  - title: tech
+    details:
+    - HTML5, CSS, JS, PHP, Jekyll
+  - title: soft
+    details:
+    - Public speaking, Presenting progress, Reviewing work
+
+languages: English (native), French
+
+# hobbies:
+#   - Music performance
+#   - blogging
