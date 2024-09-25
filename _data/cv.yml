@@ -25,53 +25,72 @@ summary: >
   community and industry.
 
 education:
-  - title: Imperial College London, London, United Kingdom
+  - title: Imperial College London, United Kingdom
     details: Ph.D., Materials Science and Engineering, 2019 - 2023
-    # bullets:
-    #   - IT System & Web Development
+    bullets:
+      - "Thesis: Theory and Discovery of Electride Materials"
+  - title: Zhejiang University, China
+    details: M. Sc., Materials Science and Engineering, 2016 - 2019
+    bullets:
+      - "Thesis Novel Two-dimensional Ferroelectric Materials: A First Principle Study"
+  - title: Lanzhou University, China
+    details: B. Sc., Materials Science and Engineering, 2012 - 2016
+    bullets:
+      - "Thesis: Electronic structure of Layered Tin Monoxide: A First-principle study"
 
 experience:
   - title: Postdoctoral Research Associate
     details: Imperial College London, 2019 - Present
     bullets:
-      - ONETEP
+      - Developing efficient Brilliouin zone sampling in linear scaling DFT code - ONETEP
   - title: Research Associate
-    details: Hongkong Polytechnic University, 2018-2019
+    details: Hongkong Polytechnic University, 2018-2018
     bullets:
-      - WOOPs
+      - Developing Wannier Orbital Overlap Population code - WOOPs
 
 teaching:
-  - title: Volunteer
-    details: NiceFestival, Crete, 2016 - Present
-    bullets:
-      - Part of festival's organization team
-      - Volunteer group coordinator
-  - title: Volunteer
-    details: NiceFestival, Crete, 2016 - Present
-    bullets:
-      - Part of festival's organization team
-      - Volunteer group coordinator
+  - title: Teaching Assistant
+    details: "Mathematics & Computing: Fourier Methods, Dept. of Materials, Imperial College London, 2020 - 2021"
+  - title: Teaching Assistant
+    details: "Mathematics & Computing: Computing with Python, Dept. of Materials, Imperial College London, 2020 - 2021"
+  - title: Teaching Assistant
+    details: "Mathematics & Computing: Advanced computing (Machine learning), Dept. of Materials, Imperial College London, 2020 - 2021"
+  # - title: Volunteer
+  #   details: NiceFestival, Crete, 2016 - Present
+  #   bullets:
+  #     - Part of festival's organization team
+  #     - Volunteer group coordinator
 
 awards:
-  - title: Introduction to Jekyll
-    details: Science Conference, Online, 2020
-    bullets:
-      - Speaker for jekyll webinar
-
-# projects:
-#   - Jekyll academic cv, 2019
-#   - PHP API for home automation, 2019
+  - title: Best Poster Award
+    details: Psi-k conference, Lausanne, 2022
+  - title: Best Poster Award
+    details: MMM Hub Conference & User Meeting, London, 2023
+  - title: Runner-up Poster Award
+    details: TYC Student day, London, 2023
 
 skills:
-  - title: tech
+  - title: Technical 
     details:
-    - HTML5, CSS, JS, PHP, Jekyll
-  - title: soft
+    - Python, Bash, Fortran, HTML5, CSS, HPC management.
+  - title: Scientific
     details:
-    - Public speaking, Presenting progress, Reviewing work
+    - Electronic structure calculations, High-throughput calculations, Machine learning.
 
-languages: English (native), French
+languages: English, Mandarin (native)
 
-# hobbies:
-#   - Music performance
-#   - blogging
+publication: 
+  - "(2022) Rationalizing the Effect of Shape and Size in Nanoparticle-Based Glues, The Journal of Physical Chemistry C, 2022, <b>126</b>, 17, 7517-7528 [<i>DOI: 10.1021/acs.jpcc.2c00461</i>]"
+  - "(2022) Unraveling the Role of Architecture in Polymer-Based Glues for Hydrogels, ACS Applied Materials & Interfaces, 2021, <b>13</b>, 35, 42230–42239 [<i>DOI: 10.1021/acsami.1c10785</i>]"
+  - "(2021) Enhancing Oxygen Evolution Reaction Activity by Using Switchable Polarization in Ferroelectric InSnO2N, ACS Catalysis,  2021, <b>11</b>, 20, 12692–12700 [<i>DOI: 10.1021/acscatal.1c03737</i>]"
+  - "(2021) Coexistence of Ferroelectricity and Ferromagnetism in One-Dimensional SbN and BiN Nanowires, ACS Applied Materials & Interfaces, 2021, <b>13</b>, 11, 13517–13523 [<i>DOI: 10.1021/acsami.0c20570</i>]"
+  - "(2019) Spontaneous symmetry lowering of Si (001) towards two-dimensional ferro/antiferroelectric behavior, Physical Review Materials, 2019, <b>3</b>, 044410 [<i>DOI: 10.1103/PhysRevMaterials.3.044410</i>]"
+  - "(2019) Superconducting phase diagram and nontrivial band topology of structurally modulated Sn1-xSbx, Physical Review Materials, 2019, <b>3</b>, 084603 [<i>DOI: 10.1103/PhysRevMaterials.3.084603</i>]"
+  - "(2019) Electronic structures of ultra-thin tellurium nanoribbons, Nanoscale, 2019, <b>11</b>, 14134-14140 [<i>DOI: 10.1039/c9nr04112e</i>]"
+  - "(2019) Room-temperature ferroelectricity in MoTe2 down to the atomic monolayer limit, Nature Communications, 2019,<b>10</b>, 1775 [<i>DOI: 10.1038/s41467-019-09669-x</i>]"
+  - "(2019) Enhanced Photoelectrical Response of Thermodynamically Epitaxial Organic Crystals at the Two-Dimensional Limit, Nature Communications, 2019, <b>10</b>, 756 [<i>DOI: 10.1038/s41467-019-08573-8</i>]"
+  - "(2018) Realization of a New Topological Crystalline Insulator and Lifshitz Transition in PbTe, Advanced Functional Materials, 2018, <b>28</b>, 37, 1803188 [<i>DOI: 10.1002/adfm.201803188</i>]"
+  - "(2018) Two-dimensional Ferroelectricity and Switchable Spin- textures in Ultra-thin Elemental Te Multilayers, Materials Horizons, 2018, <b>5</b>, 521-528 [<i>DOI: 10.1039/C8MH00082D</i>]"
+  - "(2018) Ferroelectricity and Antiferroelectricity in Elemental Group- V Monolayer Materials, Advanced Functional Materials, 2018, <b>28</b>, 17, 1707383 [<i>DOI: 10.1002/adfm.201707383</i>]"
+  - "(2017) Layer-dependent Semiconductor-metal Transition of SnO/Si(001) Heterostructure and Device Application, Scientific Reports, 2017, <b>7</b>, 2570 [<i>DOI: 10.1038/s41598-017-02832-8</i>]"
+  - "(2017) Investigations on molybdenum dinitride as a promising anode material for Na-ion batteries form first-principle calculations, Journal of Alloys and Compounds, 2017, <b>701</b>, 15, 875-881 [<i>DOI:10.1016/j.jallcom.2017.01.186</i>]"

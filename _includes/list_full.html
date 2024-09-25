@@ -1,0 +1,13 @@
+{% assign cv = site.data.cv %}
+{% assign title = include.title%}
+{% assign yml = cv[include.yml] %}
+
+<div class="row_single">
+    <div class="column">
+        <ul class="content__bullets">
+        {% for item in yml %}
+            <li class="li_pub">{{ item }}</li>
+        {% endfor %}
+        </ul>
+    </div>
+</div> 
