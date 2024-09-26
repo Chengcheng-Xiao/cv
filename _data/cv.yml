@@ -42,7 +42,7 @@ experience:
   - title: Postdoctoral Research Associate
     details: "<b>2023-Present</b> Imperial College London"
     bullets:
-      - Developing efficient Brilliouin zone sampling in Fortran based linear scaling DFT code - ONETEP. Extending the operability of the code to systems such as interfaces, defects, and surfaces.
+      - Developing efficient Brillouin zone sampling in Fortran based linear scaling DFT code - ONETEP. Extending the operability of the code to systems such as interfaces, defects, and surfaces.
   - title: Research Associate
     details: "<b>2018</b> Hongkong Polytechnic University"
     bullets:
