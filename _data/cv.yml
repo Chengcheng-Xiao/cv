@@ -26,25 +26,25 @@ summary: >
 
 education:
   - title: Imperial College London, United Kingdom
-    details: Ph.D., Materials Science and Engineering, 2019 - 2023
+    details: "<b>2019 - 2023</b> Ph.D., Materials Science and Engineering"
     bullets:
       - "Thesis: Theory and Discovery of Electride Materials"
   - title: Zhejiang University, China
-    details: M.Sc., Materials Science and Engineering, 2016 - 2019
+    details: "<b>2016 - 2019</b> M.Sc., Materials Science and Engineering"
     bullets:
       - "Thesis: Novel Two-dimensional Ferroelectric Materials: A First Principle Study"
   - title: Lanzhou University, China
-    details: B.Sc., Materials Science and Engineering, 2012 - 2016
+    details: "<b>2012 - 2016</b> B.Sc., Materials Science and Engineering"
     bullets:
       - "Thesis: Electronic structure of Layered Tin Monoxide: A First-principle study"
 
 experience:
   - title: Postdoctoral Research Associate
-    details: Imperial College London, 2023 - Present
+    details: "<b>2023-Present</b> Imperial College London"
     bullets:
       - Developing efficient Brilliouin zone sampling in Fortran based linear scaling DFT code - ONETEP. Extending the operability of the code to systems such as interfaces, defects, and surfaces.
   - title: Research Associate
-    details: Hongkong Polytechnic University, 2018-2018
+    details: "<b>2018</b> Hongkong Polytechnic University"
     bullets:
       - Developing Python based package Wannier Orbital Overlap Population (WOOPs) that performs detailed analysis of chemical bonding in solids and helps understanding the origin of the displacive ferroelectricity.
 # teaching:
