@@ -53,7 +53,8 @@ experience:
     bullets:
       - "<b>2020</b> Mathematics & Computing: Fourier Methods, Dept. of Materials, Imperial College London"
       - "<b>2020</b> Mathematics & Computing: Computing with Python, Dept. of Materials, Imperial College London"
-      - "<b>2021</b> Mathematics & Computing: Advanced computing (Machine learning), Dept. of Materials, Imperial College London"
+      - "<b>2021</b> Mathematics & Computing: Advanced computing, Dept. of Materials, Imperial College London"
+      # - "<b>2021</b> Mathematics & Computing: Advanced computing (machine learning), Dept. of Materials, Imperial College London"
   # - title: Volunteer
   #   details: NiceFestival, Crete, 2016 - Present
   #   bullets:
@@ -78,7 +79,7 @@ skills:
     bullets:
       - Electronic structure calculations for predicting properties of materials 
       - High-throughput materials properties screening 
-      - Generative AI and Machine learning on predicting materials structure and properties
+      # - Generative AI and Machine learning on predicting materials structure and properties
 
 languages: English, Mandarin (native)
 
