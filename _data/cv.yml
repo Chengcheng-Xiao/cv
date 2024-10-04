@@ -40,13 +40,13 @@ education:
 
 experience:
   - title: Postdoctoral Research Associate
-    details: "<b>2023-Present</b> Imperial College London"
+    details: "<b>2023 - Present</b> Imperial College London"
     bullets:
       - Developing efficient Brillouin zone sampling in Fortran based linear scaling DFT code - ONETEP. Extending the operability of the code to systems such as interfaces, defects, and surfaces.
   - title: Research Associate
     details: "<b>2018</b> Hongkong Polytechnic University"
     bullets:
-      - Developing Python based package Wannier Orbital Overlap Population (WOOPs) that performs detailed analysis of chemical bonding in solids and helps understanding the origin of the displacive ferroelectricity.
+      - Developing Python based package Wannier Orbital Overlap Population (WOOPs) that performs detailed analysis of chemical bonding in solids.
 # teaching:
   - title: Teaching Assistant
     details: "Delivering tutorials and marking assignments for the following courses:"
