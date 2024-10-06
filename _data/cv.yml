@@ -1,7 +1,7 @@
 details:
   name: Chengcheng Xiao
   uni: Imperial College London
-  dept: Deptartment of Materials
+  dept: Department of Materials
   place: London, United Kingdom
   email: cx219@ic.ac.uk
   phone: +44 7594 769521
@@ -25,16 +25,16 @@ summary: >
   community and industry.
 
 education:
-  - title: Imperial College London, United Kingdom
-    details: "<b>2019 - 2023</b> Ph.D., Materials Science and Engineering"
+  - title: "Ph.D., Materials Science and Engineering"
+    details: "<b>2019 - 2023</b> Imperial College London, United Kingdom"
     bullets:
       - "Thesis: Theory and Discovery of Electride Materials"
-  - title: Zhejiang University, China
-    details: "<b>2016 - 2019</b> M.Sc., Materials Science and Engineering"
+  - title: "M.Sc., Materials Science and Engineering"
+    details: "<b>2016 - 2019</b> Zhejiang University, China"
     bullets:
       - "Thesis: Novel Two-dimensional Ferroelectric Materials: A First Principle Study"
-  - title: Lanzhou University, China
-    details: "<b>2012 - 2016</b> B.Sc., Materials Science and Engineering"
+  - title: "B.Sc., Materials Science and Engineering"
+    details: "<b>2012 - 2016</b> Lanzhou University, China"
     bullets:
       - "Thesis: Electronic structure of Layered Tin Monoxide: A First-principle study"
 
@@ -42,18 +42,18 @@ experience:
   - title: Postdoctoral Research Associate
     details: "<b>2023 - Present</b> Imperial College London"
     bullets:
-      - Developing efficient Brillouin zone sampling in Fortran based linear scaling DFT code - ONETEP. Extending the operability of the code to systems such as interfaces, defects, and surfaces.
+      - Develop efficient Brillouin zone sampling in Fortran based linear scaling DFT code - ONETEP. Extending the operability of the code to systems such as interfaces, defects, and surfaces.
   - title: Research Associate
     details: "<b>2018</b> Hongkong Polytechnic University"
     bullets:
-      - Developing Python based package Wannier Orbital Overlap Population (WOOPs) that performs detailed analysis of chemical bonding in solids.
+      - Develop Python based package Wannier Orbital Overlap Population (WOOPs) that performs detailed analysis of chemical bonding in solids.
 # teaching:
   - title: Teaching Assistant
-    details: "Delivering tutorials and marking assignments for the following courses:"
+    details: "Deliver tutorials and mark assignments for the following courses:"
     bullets:
-      - "<b>2020</b> Mathematics & Computing: Fourier Methods, Dept. of Materials, Imperial College London"
-      - "<b>2020</b> Mathematics & Computing: Computing with Python, Dept. of Materials, Imperial College London"
-      - "<b>2021</b> Mathematics & Computing: Advanced computing, Dept. of Materials, Imperial College London"
+      - "<b>2020</b> Mathematics & Computing: Fourier Methods, Department of Materials, Imperial College London"
+      - "<b>2020</b> Mathematics & Computing: Computing with Python, Department of Materials, Imperial College London"
+      - "<b>2021</b> Mathematics & Computing: Advanced computing, Department of Materials, Imperial College London"
       # - "<b>2021</b> Mathematics & Computing: Advanced computing (machine learning), Dept. of Materials, Imperial College London"
   # - title: Volunteer
   #   details: NiceFestival, Crete, 2016 - Present
@@ -62,12 +62,14 @@ experience:
   #     - Volunteer group coordinator
 
 awards:
-  - title: Best Poster Award
-    details: Psi-k conference, Lausanne, 2022
-  - title: Best Poster Award
-    details: MMM Hub Conference & User Meeting, London, 2023
+  - title: CoSeC Fellowship
+    details: Computational Science Centre for Research Communities, UK, 2024
   - title: Runner-up Poster Award
-    details: TYC Student day, London, 2023
+    details: TYC Student day, London, UK, 2023
+  - title: Best Poster Award
+    details: MMM Hub Conference & User Meeting, London, UK, 2023
+  - title: Best Poster Award
+    details: Psi-k conference, Lausanne, Switzerland, 2022
 
 skills:
   - title: Technical 
