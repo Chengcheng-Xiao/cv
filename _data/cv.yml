@@ -29,11 +29,12 @@ education:
     details: "<b>2019 - 2023</b> Imperial College London, United Kingdom"
     bullets:
       - "Thesis: Theory and Discovery of Electride Materials"
+      - "Funded by China Scholarship Council - Imperial Scholarship"
   - title: "M.Sc., Materials Science and Engineering"
     details: "<b>2016 - 2019</b> Zhejiang University, China"
     bullets:
       - "Thesis: Novel Two-dimensional Ferroelectric Materials: A First Principle Study"
-  - title: "B.Sc., Materials Science and Engineering"
+  - title: "B.Sc., Materials Physics"
     details: "<b>2012 - 2016</b> Lanzhou University, China"
     bullets:
       - "Thesis: Electronic structure of Layered Tin Monoxide: A First-principle study"
@@ -86,6 +87,8 @@ skills:
 languages: English, Mandarin (native)
 
 publication: 
+  - "<b>[2023]</b> Origin of versatile polarization state in CuInP2S6, Physical Review B, 2023, <b>108</b>, L161406 [<i>DOI: <a href=https://doi.org/10.1103/PhysRevB.108.L161406>10.1103/PhysRevB.108.L161406</a></i>]"
+  - "<b>[2023]</b> Role of electron localisation in H adsorption and hydride formation in the Mg basal plane under aqueous corrosion: a first-principles study, Physical Chemistry Chemical Physics, 2023, <b>25</b>, 8, 5989-6001 [<i>DOI: <a href=https://doi.org/10.1039/d2cp05242c>10.1039/d2cp05242c</a></i>]"
   - "<b>[2022]</b> Rationalizing the Effect of Shape and Size in Nanoparticle-Based Glues, The Journal of Physical Chemistry C, 2022, <b>126</b>, 17, 7517-7528 [<i>DOI: <a href=https://doi.org/10.1021/acs.jpcc.2c00461>10.1021/acs.jpcc.2c00461</a></i>]"
   - "<b>[2022]</b> Unraveling the Role of Architecture in Polymer-Based Glues for Hydrogels, ACS Applied Materials & Interfaces, 2021, <b>13</b>, 35, 42230–42239 [<i>DOI: <a href=https://doi.org/10.1021/acsami.1c10785>10.1021/acsami.1c10785</a></i>]"
   - "<b>[2021]</b> Enhancing Oxygen Evolution Reaction Activity by Using Switchable Polarization in Ferroelectric InSnO2N, ACS Catalysis,  2021, <b>11</b>, 20, 12692–12700 [<i>DOI: <a href=https://doi.org/10.1021/acscatal.1c03737>10.1021/acscatal.1c03737</a></i>]"
