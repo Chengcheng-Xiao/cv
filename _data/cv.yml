@@ -18,7 +18,7 @@ details:
 summary: >
   I am a postdoctoral research associate at Imperial College London. 
   My research focuses on developing new methods, particularly density functional
-  theory, for the accurate and efficient simulation of materials. 
+  theory, for the accurate and efficient simulation and screening of materials.
   I apply these methods to investigate the properties of various materials, 
   including ferroic materials, hydrogen storage materials, superconductors,
   and topological materials that are of interest to both the scientific 
@@ -41,7 +41,11 @@ education:
 
 experience:
   - title: Postdoctoral Research Associate
-    details: "<b>2023 - Present</b> Imperial College London"
+    details: "<b>2025 - Present</b> Imperial College London"
+    bullets:
+      - Investigate plasmonic effect on enhancing surface photocatalytic activity of metal nanoparticles using first-principles calculations.
+  - title: Postdoctoral Research Associate
+    details: "<b>2023 - 2025</b> Imperial College London"
     bullets:
       - Develop efficient Brillouin zone sampling in Fortran based linear scaling DFT code - ONETEP. Extending the operability of the code to systems such as interfaces, defects, and surfaces.
   - title: Research Associate
@@ -90,9 +94,10 @@ publication:
   - "<b>[2023]</b> Origin of versatile polarization state in CuInP2S6, Physical Review B, 2023, <b>108</b>, L161406 [<i>DOI: <a href=https://doi.org/10.1103/PhysRevB.108.L161406>10.1103/PhysRevB.108.L161406</a></i>]"
   - "<b>[2023]</b> Role of electron localisation in H adsorption and hydride formation in the Mg basal plane under aqueous corrosion: a first-principles study, Physical Chemistry Chemical Physics, 2023, <b>25</b>, 8, 5989-6001 [<i>DOI: <a href=https://doi.org/10.1039/d2cp05242c>10.1039/d2cp05242c</a></i>]"
   - "<b>[2022]</b> Rationalizing the Effect of Shape and Size in Nanoparticle-Based Glues, The Journal of Physical Chemistry C, 2022, <b>126</b>, 17, 7517-7528 [<i>DOI: <a href=https://doi.org/10.1021/acs.jpcc.2c00461>10.1021/acs.jpcc.2c00461</a></i>]"
-  - "<b>[2022]</b> Unraveling the Role of Architecture in Polymer-Based Glues for Hydrogels, ACS Applied Materials & Interfaces, 2021, <b>13</b>, 35, 42230–42239 [<i>DOI: <a href=https://doi.org/10.1021/acsami.1c10785>10.1021/acsami.1c10785</a></i>]"
+  - "<b>[2021]</b> Unraveling the Role of Architecture in Polymer-Based Glues for Hydrogels, ACS Applied Materials & Interfaces, 2021, <b>13</b>, 35, 42230–42239 [<i>DOI: <a href=https://doi.org/10.1021/acsami.1c10785>10.1021/acsami.1c10785</a></i>]"
   - "<b>[2021]</b> Enhancing Oxygen Evolution Reaction Activity by Using Switchable Polarization in Ferroelectric InSnO2N, ACS Catalysis,  2021, <b>11</b>, 20, 12692–12700 [<i>DOI: <a href=https://doi.org/10.1021/acscatal.1c03737>10.1021/acscatal.1c03737</a></i>]"
   - "<b>[2021]</b> Coexistence of Ferroelectricity and Ferromagnetism in One-Dimensional SbN and BiN Nanowires, ACS Applied Materials & Interfaces, 2021, <b>13</b>, 11, 13517–13523 [<i>DOI: <a href=https://doi.org/10.1021/acsami.0c20570>10.1021/acsami.0c20570</a></i>]"
+  - "<b>[2020]</b> Ferroelectric control of single-molecule magnetism in 2D limit, Science Bullitin, 2020, <b>65</b>, 15, 1252-1259 [<i>DOI: <a href=https://doi.org/10.1016/j.scib.2020.04.014>10.1016/j.scib.2020.04.014</a></i>]"
   - "<b>[2019]</b> Spontaneous symmetry lowering of Si (001) towards two-dimensional ferro/antiferroelectric behavior, Physical Review Materials, 2019, <b>3</b>, 044410 [<i>DOI: <a href=https://doi.org/10.1103/PhysRevMaterials.3.044410>10.1103/PhysRevMaterials.3.044410</a></i>]"
   - "<b>[2019]</b> Superconducting phase diagram and nontrivial band topology of structurally modulated Sn1-xSbx, Physical Review Materials, 2019, <b>3</b>, 084603 [<i>DOI: <a href=https://doi.org/10.1103/PhysRevMaterials.3.084603>10.1103/PhysRevMaterials.3.084603</a></i>]"
   - "<b>[2019]</b> Electronic structures of ultra-thin tellurium nanoribbons, Nanoscale, 2019, <b>11</b>, 14134-14140 [<i>DOI: <a href=https://doi.org/10.1039/c9nr04112e_>10.1039/c9nr04112e</a></i>]"
