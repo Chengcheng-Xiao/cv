@@ -43,23 +43,26 @@ experience:
   - title: Postdoctoral Research Associate
     details: "<b>2025 - Present</b> Imperial College London"
     bullets:
-      - Investigate plasmonic effect on enhancing surface photocatalytic activity of metal nanoparticles using first-principles calculations.
+      - To model and quantify the plasmonic contribution to enhanced photocatalytic efficiency in metal nanoparticles using first-principles computational methods.
+      - Part of the <i><a href=https://www.cplas.org>CPLAS project</a></i>.
   - title: Postdoctoral Research Associate
     details: "<b>2023 - 2025</b> Imperial College London"
     bullets:
-      - Develop efficient Brillouin zone sampling in Fortran based linear scaling DFT code - ONETEP. Extending the operability of the code to systems such as interfaces, defects, and surfaces.
+      - Develop efficient Brillouin zone sampling in Fortran based linear scaling DFT code - <i><a href=https://onetep.org>ONETEP</a></i>. Extending the operability of the code to systems such as interfaces, defects, and surfaces.
   - title: Research Associate
     details: "<b>2018</b> Hongkong Polytechnic University"
     bullets:
-      - Develop Python based package Wannier Orbital Overlap Population (WOOPs) that performs detailed analysis of chemical bonding in solids.
+      - Develop Python based package Wannier Orbital Overlap Population (<i><a href=https://github.com/Chengcheng-Xiao/WOOPs>WOOPs</a></i>) that performs detailed analysis of chemical bonding in solids.
 # teaching:
   - title: Teaching Assistant
-    details: "Deliver tutorials and mark assignments for the following courses:"
+    details: "Deliver tutorials, mark assignments and develop teaching materials for the following courses:"
     bullets:
       - "<b>2020</b> Mathematics & Computing: Fourier Methods, Department of Materials, Imperial College London"
       - "<b>2020</b> Mathematics & Computing: Computing with Python, Department of Materials, Imperial College London"
       - "<b>2021</b> Mathematics & Computing: Advanced computing, Department of Materials, Imperial College London"
-      # - "<b>2021</b> Mathematics & Computing: Advanced computing (machine learning), Dept. of Materials, Imperial College London"
+      - "<b>2021</b> Mathematics & Computing: Advanced computing (machine learning), Dept. of Materials, Imperial College London"
+      - "<b>2024</b> Modelling Materials with Density Functional Theory, Dept. of Materials, Imperial College London"
+      - "<b>2025</b> Modelling Materials with Density Functional Theory, Dept. of Materials, Imperial College London"
   # - title: Volunteer
   #   details: NiceFestival, Crete, 2016 - Present
   #   bullets:
